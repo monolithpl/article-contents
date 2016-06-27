@@ -3,7 +3,7 @@ Template for articles or documentation with automatically generated contents sid
 
 ### features
 - elegant template for articles & documentation
-- automagically creates contents sidebar based on HTML headings <h1>..<h5>
+- automagically creates contents sidebar based on HTML headings
 - based on [tocbot](https://github.com/tscanlin/tocbot)
 
 ### demo
