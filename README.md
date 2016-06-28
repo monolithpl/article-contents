@@ -4,6 +4,7 @@ Template for articles or documentation with automatically generated contents sid
 ### features
 - elegant template for articles & documentation
 - automagically creates contents sidebar based on HTML headings
+- modern look without all the 500kb dependencies (no jquery, no bootstrap, no react = 20kb!)
 - based on [tocbot](https://github.com/tscanlin/tocbot)
 
 ### demo
